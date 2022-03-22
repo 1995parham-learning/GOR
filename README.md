@@ -23,3 +23,22 @@ Linear and Mixed-Integer Programming
 Vehicle Routing
 
 Graph Algorithms
+
+# Identifying the type of problem you wish to solve
+
+Linear optimization
+
+Constraint optimization
+
+Mixed-integer optimization
+
+Bin packing
+
+Network flows
+
+Assignment
+
+Scheduling
+
+Routing
+
